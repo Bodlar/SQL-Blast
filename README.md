@@ -1,3 +1,5 @@
 SQL-Blast
 =========
-//sqlblast
+/*I have utilized multiple programming languages throughout my career for personal projects. BASIC, Pascal, Visual Basic, HTML, Java, Javascript, C, C++, C#, and most recently PHP. The PHP system I developed using my own PHP Linux Server on Amazon Web Services with a MySQL back end. The system captures user field input which is stored in the MySQL database. The second part of the program is the display portion. It is displayed in a paginated table that allows the user to set the number of lines per page and navigate between pages. The login and user registration process I designed for this system was extremely secure. For the password encryption I used a salted hash system which ran 1000 iterations through the salted hash algorithm to store the passwords in a MySQL database. Then for authentication the reverse salted hash algorithm is used to verify password entry.
+
+The main file for the site is sqlblast.php where most of the documentation resides. You'll also find registration.php, dbviewer.php, hash.php, and sesfunc.php performing multiple other parts of the site's functionality. */
